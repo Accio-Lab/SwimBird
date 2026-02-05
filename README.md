@@ -1,25 +1,19 @@
 <div align="center">
-  <h1 style="display: inline-block; margin: 0;">SwimBird: Eciliting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs
-  </h1>
+<br>
+<h3>SwimBird: Eciliting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs</h3>
+
+[Jintao Tong]()<sup>1</sup>, [Shilin Yan]()<sup>2†‡</sup>, [Hongwei Xue]()<sup>2</sup>, [Xiaojun Tang]()<sup>2</sup>, [Kunyu Shi]()<sup>2</sup>, 
+<br>
+[Guannan Zhang]()<sup>2</sup>, [Ruixuan Li]()<sup>1‡</sup>, [Yixiong Zou]()<sup>1‡</sup>
+
+<div class="is-size-6 publication-authors">
+  <p class="footnote">
+    <span class="footnote-symbol"><sup>†</sup></span>Project Leader
+    <span class="footnote-symbol"><sup>‡</sup></span>Corresponding author
+  </p>
 </div>
 
-
-<h4 align="center"> 
-Jintao Tong<sup>1</sup>,
-Shilin Yan<sup>2†‡</sup>, 
-Hongwei Xue<sup>2</sup>, 
-Xiaojun Tang<sup>2</sup>, 
-Kunyu Shi<sup>2</sup>
-<br>
-Guannan Zhang<sup>2</sup>,
-Ruixuan Li<sup>1‡</sup>,
-Yixiong Zou<sup>1‡</sup>
-<br><br>
-<sup>1</sup>Huazhong University of Science and Technology,  <sup>2</sup>Accio, Alibaba Group
-<br><br> 
-<sup>†</sup>Project Leader,  <sup>‡</sup>Corresponding author
-
-</h4>
+<sup>1</sup>Huazhong University of Science and Technology,  <sup>2</sup>Accio Team, Alibaba Group
 
 <div align="center">
 
@@ -28,6 +22,8 @@ Yixiong Zou<sup>1‡</sup>
 [![HF](https://img.shields.io/badge/%F0%9F%A4%97%20Data-SwimBird_SFT_92K-orange)](https://huggingface.co/Accio-Lab/SwimBird-8B)
 [![HF](https://img.shields.io/badge/%F0%9F%A4%97%20Model-SwimBird_8B-orange)](https://huggingface.co/datasets/Accio-Lab/SwimBird-SFT-92K)
 </div>
+
+
 
 ## 🔥 News
 
