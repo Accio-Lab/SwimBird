@@ -18,10 +18,12 @@
 <div align="center">
 
 [![ArXiv](https://img.shields.io/badge/arXiv-ID-AD1C18.svg?logo=arXiv)](xxx)
-[![Project](https://img.shields.io/badge/Project-SwimBird-pink?style=flat&logo=Google%20chrome&logoColor=pink')](https://accio-lab.github.io/SwimBird/)
+[![Project](https://img.shields.io/badge/Project-SwimBird-pink?style=flat&logo=Google%20chrome&logoColor=pink')](https://accio-lab.github.io/SwimBird)
 [![HF](https://img.shields.io/badge/%F0%9F%A4%97%20Data-SwimBird_SFT_92K-orange)](https://huggingface.co/Accio-Lab/SwimBird-8B)
 [![HF](https://img.shields.io/badge/%F0%9F%A4%97%20Model-SwimBird_8B-orange)](https://huggingface.co/datasets/Accio-Lab/SwimBird-SFT-92K)
 </div>
+</div>
+
 
 
 
