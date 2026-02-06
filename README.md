@@ -19,8 +19,8 @@
 
 [![ArXiv](https://img.shields.io/badge/arXiv-2602.06040-AD1C18.svg?logo=arXiv)](https://arxiv.org/abs/2602.06040)
 [![Project](https://img.shields.io/badge/Project-SwimBird-pink?style=flat&logo=Google%20chrome&logoColor=pink')](https://accio-lab.github.io/SwimBird)
-[![HF](https://img.shields.io/badge/%F0%9F%A4%97%20Data-SwimBird_SFT_92K-orange)](https://huggingface.co/Accio-Lab/SwimBird-8B)
-[![HF](https://img.shields.io/badge/%F0%9F%A4%97%20Model-SwimBird_8B-orange)](https://huggingface.co/datasets/Accio-Lab/SwimBird-SFT-92K)
+[![HF](https://img.shields.io/badge/%F0%9F%A4%97%20Data-SwimBird_SFT_92K-orange)](https://huggingface.co/datasets/Accio-Lab/SwimBird-SFT-92K)
+[![HF](https://img.shields.io/badge/%F0%9F%A4%97%20Model-SwimBird_8B-orange)](https://huggingface.co/Accio-Lab/SwimBird-8B)
 </div>
 </div>
 
