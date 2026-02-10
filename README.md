@@ -112,7 +112,12 @@ See [[QuickStar](https://github.com/open-compass/VLMEvalKit/blob/main/docs/en/Qu
 - If you find this project useful in your research, please consider citing:
 
 ```bibtex
-arxiv
+@article{tong2026swimbird,
+  title={SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs},
+  author={Tong, Jintao and Yan, Shilin and Xue, Hongwei and Tang, Xiaojun and Shi, Kunyu and Zhang, Guannan and Li, Ruixuan and Zou, Yixiong},
+  journal={arXiv preprint arXiv:2602.06040},
+  year={2026}
+}
 ```
 
 
