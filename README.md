@@ -94,12 +94,14 @@ pip install -e.
 ```
 
 ### 2. Inference
+Notably, we evaluate our model with VLMEvalKit using the LLM-based API judge setting rather than exact matching for a more accurate and reliable assessment. We set gpt-4o-0806 as the default judge model, and you can replace it with your own.
+
 
 ```Shell
 bash test.sh
 ```
 
-The path to our model: `VLMEvalKit-main/vlmeval/vlm/swimbird`
+The path to our model: `VLMEvalKit/vlmeval/vlm/swimbird`
 
 See [[QuickStar](https://github.com/open-compass/VLMEvalKit/blob/main/docs/en/Quickstart.md) | [快速开始](https://github.com/open-compass/VLMEvalKit/blob/main/docs/zh-CN/Quickstart.md)] for more details about arguments.
 
