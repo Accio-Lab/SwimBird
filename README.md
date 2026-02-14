@@ -28,7 +28,7 @@
 
 
 ## 🔥 News
-
+* **`2025.02.14`** 🚀 Evaluation Code is available!
 * **`2025.02.06`** 🚀 [Model](https://huggingface.co/Accio-Lab/SwimBird-8B) and [Dataset](https://huggingface.co/datasets/Accio-Lab/SwimBird-SFT-92K) are released!
 * **`2025.02.05`** 🚀 [Training Code](https://github.com/Accio-Lab/SwimBird) is available!
 * **`2025.02.05`** 📝 We release our latest work [SwimBird](https://arxiv.org/abs/2602.06040)!
@@ -94,7 +94,7 @@ pip install -e.
 ```
 
 ### 2. Inference
-Notably, we evaluate our model with VLMEvalKit using the LLM-based API judge setting rather than exact matching for a more accurate and reliable assessment. We set gpt-4o-0806 as the default judge model, and you can replace it with your own.
+Notably, we evaluate our model with the LLM-based API judge setting rather than exact matching for a more accurate and reliable assessment. We set gpt-4o-0806 as the default judge model, and you can replace it with your own.
 
 
 ```Shell
